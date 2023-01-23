@@ -1,0 +1,15 @@
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\bin\Debug\net6.0\ExoGitCalcu.exe
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\bin\Debug\net6.0\ExoGitCalcu.deps.json
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\bin\Debug\net6.0\ExoGitCalcu.runtimeconfig.json
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\bin\Debug\net6.0\ExoGitCalcu.dll
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\bin\Debug\net6.0\ExoGitCalcu.pdb
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.csproj.AssemblyReference.cache
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.AssemblyInfoInputs.cache
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.AssemblyInfo.cs
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.csproj.CoreCompileInputs.cache
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.dll
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\refint\ExoGitCalcu.dll
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.pdb
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ExoGitCalcu.genruntimeconfig.cache
+C:\Users\s_11864_analystes\source\repos\ExoGitCalcu\ExoGitCalcu\obj\Debug\net6.0\ref\ExoGitCalcu.dll
